@@ -10,6 +10,7 @@ function BoardMember(name,homeState,training){
     return 'You can do that!'
   }
   doCharity(){
-    return ''
+    return 'I like to help people.'
   }
+  
 }

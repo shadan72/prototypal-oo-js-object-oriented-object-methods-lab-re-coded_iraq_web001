@@ -15,5 +15,7 @@ function BoardMember(name,homeState,training){
   releasePressStatement(){
     return 'You will see great things from Scuber.'
   }
-  
+  sayHi(){
+    return 
+  }
 }
